@@ -14,19 +14,19 @@
 ---- ---- ---- ----- ----- ---- ----- ----- ---- ----- ---- ---- ---- ---- ---- ---- ---- --- ---- ---- --- - -- -- - - - -
 --- - - - - - - - - - - -  - -- - - - - - - - - - - - - - -  -  - -  -  - - --  -  -  -  - - -- --  - -- - --- - -- - - - -  
 
-package Homo-Sapiens;
+ package Homo-Sapiens;
 
-import time.from.space;
-import task.from.earth;
+ import time.from.space;
+ import task.from.earth;
 
-class Life {
+ class Life {
    public static void main(String[] args) {
        var life;
        boolean lead = true;
 
        int age = 18;
 
-       while (life-lead : lead) {
+       while (life : lead) {
            if (age >= time.finished()) {
                lead = false;
                System.out.println("You're out of time...!!");
