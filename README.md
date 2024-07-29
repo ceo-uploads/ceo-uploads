@@ -30,6 +30,7 @@
            if (age >= time.finished()) {
                lead = false;
                System.out.println("You're out of time...!!");
+               return;
            }
            else {
                task.eat();
