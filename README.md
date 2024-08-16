@@ -36,44 +36,10 @@
                task.code();
                task.pray();
                task.train();
-               task.grow();
-               task.help();
-               task.work();
-               task.pain();
-               task.dream();
-               task.shine();
-               task.love();
-               task.marry();
-               task.care();
-               task.build();
-               task.re_build();
-               task.dominate();
-               task.contribute();
-               task.brake();
-               task.sped_up();
-               task.drive();
-               task.accelerate();
-               task.fight();
-               task.fight_for_good();
-               task.defend();
-               task.protect();
-               task.raise();
-               task.worm();
-               task.heal();
-               task.recover();
-               task.war();
-               task.make();
-               task.earn();
-               task.earn_more();
-               task.earn_much();
-               task.earn_must();
-               task.make_opportunities();
-               task.tolerate();
                task.DO_NOT_GIVE_UP();
                task.DO_IMPROVE_YOURSELFE();
-               task.DON'T_GIVE_UP();
+               task.DON_IT_EVERY_SINGLE_DAY();
                task.repeat();
-
 
 
                age++;
