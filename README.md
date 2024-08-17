@@ -19,10 +19,12 @@
 
  class Life {
    public static void main(String[] args) {
-       var life;
-       boolean lead = true;
+       
+       
 
        int age = 18;
+       String life;
+       boolean lead = true;
 
        while (life : lead) {
            if (age >= time.finished()) {
@@ -37,7 +39,7 @@
                task.pray();
                task.train();
                task.DO_NOT_GIVE_UP();
-               task.DO_IMPROVE_YOURSELFE();
+               task.DO_IMPROVE_YOURSELF();
                task.DON_IT_EVERY_SINGLE_DAY();
                task.repeat();
 
