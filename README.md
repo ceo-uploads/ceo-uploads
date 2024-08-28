@@ -42,7 +42,7 @@
                task.train();
                task.DO_NOT_GIVE_UP();
                task.DO_IMPROVE_YOURSELF();
-               task.DON_IT_EVERY_SINGLE_DAY();
+               task.DO_IT_EVERY_SINGLE_DAY();
                task.repeat();
 
 
@@ -51,4 +51,5 @@
            }
        }
    }
+   
 }
