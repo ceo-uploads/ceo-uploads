@@ -1,4 +1,4 @@
-👋 Hi, I’m @ceo-uploads----[Owner & CEO- at Unrealx Studio]                                                                                 
+👋 Hi, I’m @ceo-uploads----[Owner & CEO- at Unreal Studio] + [Founder & CEO - UnrealX]                                                                                 
 
 👀 I’m interested in Making New Things, creating  & inventing and exploaring.
 
