@@ -10,19 +10,7 @@
 
 
 
----------------------------------------------------------------------------
-
- package Homo-Sapiens;
-
- import time.from.space;
- 
- import task.from.earth;
-
- class Life {
-
-   public static void main(String[] args) {
-       
-       
+---------------------------------------------------------------------------    
 
        int age = 18;
        String life;
@@ -50,6 +38,3 @@
                
            }
        }
-   }
-   
-}
