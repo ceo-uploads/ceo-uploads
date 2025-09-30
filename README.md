@@ -1,14 +1,11 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Rayhan</h1>
 <h3 align="center">🚀 A passionate programmer from Bangladesh</h3>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ceo-uploads&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
----
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -28,8 +25,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
   </a>
 </p>
-
----
 
 ## 🛠️ Languages & Tools
 <p align="center">
@@ -64,7 +59,7 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -76,10 +71,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceo-uploads&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
----
 
 ✨ *"Code is like humor. When you have to explain it, it’s bad."*
-```
+
 
 
 
