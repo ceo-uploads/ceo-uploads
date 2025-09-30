@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rayhan</h1>
+<h2 align="center"> -->CEO, Unreal Studio<-- </h2>
+<h3 align="center"> BSC in CSE </h3>
+<h3 align="center">Department of Computer Science </h3>
+<h3 align="center">FENI UNIVERSITY</h3>
 <h3 align="center">🚀 A passionate programmer from Bangladesh</h3>
 
 
@@ -79,29 +83,30 @@
 
 ---------------------------------------------------------------------------    
 
-       int age = 18;
-       String life;
-       boolean lead = true;
-
-       while (life : lead) {
-           if (age >= time.finished()) {
-               lead = false;
-               System.out.println("You're out of time...!!");
-               return;
-           }
-           else {
-               task.eat();
-               task.sleap();
-               task.code();
-               task.pray();
-               task.train();
-               task.DO_NOT_GIVE_UP();
-               task.DO_IMPROVE_YOURSELF();
-               task.DO_IT_EVERY_SINGLE_DAY();
-               task.repeat();
 
 
-               age++;
-               
-           }
-       }
+## 🎨 Partner Spotlight: Unreal Studio  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/unreal-logo.svg" alt="Unreal Studio Logo" width="120"/>
+</p>
+
+<p align="center"><b>Unreal Studio</b></p>
+
+<p align="center">
+  Unreal Studio is a software company. They focus on building their own projects—and now they’re
+  bringing that product-first mindset to the marketplace to help people create their dream software
+  and <em>scale</em> those dreams into reality.
+</p>
+
+<blockquote align="center">
+  “Connect Your Visual Reality”  
+  <br>— CEO, Unreal Studio
+</blockquote>
+
+---
+
+💡 *Unreal Studio also provides consulting, creative design, and tech workshops to inspire developers worldwide.*  
+📩 Contact: **ceo.at.unrealstudio@gmail.com**
+```
+
