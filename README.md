@@ -1,116 +1,93 @@
-<h1 align="center">Hi 👋, I'm Rayhan</h1>
-<h2 align="center"> -->CEO, Unreal Studio<-- </h2>
-<h3 align="center"> BSC in CSE </h3>
-<h3 align="center">Department of Computer Science </h3>
-<h3 align="center">FENI UNIVERSITY</h3>
-<h3 align="center">🚀 A passionate programmer from Bangladesh</h3>
+<!-- Header Section -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Rayhan</span></h1>
+<h2 align="center">💼 CEO, <span style="color:#9370DB;">Unreal Studio</span></h2>
+<h3 align="center">🎓 B.Sc in CSE | Department of Computer Science</h3>
+<h3 align="center">🏫 FENI UNIVERSITY</h3>
+<h3 align="center">🚀 Passionate Programmer from 🇧🇩 Bangladesh</h3>
 
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ceo-uploads&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ceo-uploads&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CEO-Unreal%20Studio-blue?style=for-the-badge"/>
 </p>
 
+---
 
 ## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://twitter.com/the_rayhan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/md-rayhan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://fb.com/rayhan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/rayhan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/@stacknbuild" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
-  </a>
+  <a href="https://twitter.com/the_rayhan" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/md-rayhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/rayhan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/rayhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@stacknbuild" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
+---
 
 ## 🛠️ Languages & Tools
+
 <p align="center">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,html,css,react,nodejs,express,vue,angular,tailwind,dart,flutter,androidstudio,kotlin,unity,unreal,blender,mysql,aws,docker,firebase,git,arduino,bash,spring,linux,vscode,figma" />
 </p>
 
-
+---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceo-uploads&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceo-uploads&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ceo-uploads&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=9370DB" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceo-uploads&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceo-uploads&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceo-uploads&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
+---
 
-✨ *"Code is like humor. When you have to explain it, it’s bad."*
+## 🧠 Fun Zone
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ceo-uploads&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=10" alt="GitHub Trophies"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ceo-uploads&theme=tokyonight"/>
+</p>
 
-
----------------------------------------------------------------------------    
-
-
+---
 
 ## 🎨 Partner Spotlight: Unreal Studio  
 
 <p align="center">
-  <img src="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=MrchTChH48kQ7kNvwF5DlHq&_nc_oc=AdlWfp_Aw71W5vGlJhH_18fPMnNm8zixtTo4SnO-1LQLD5mGdaMKz6dtNTrZ4vc4zhE&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=IpLe6ONCkMZnV_afMmkTZg&oh=00_AfY2vAljqn-ljp_zM660U6ja5eivQGOYGXsZkHeMCx27Rg&oe=68E1A6E3" 
-       alt="Unreal Studio Logo" 
-       width="220" 
-       style="border-radius:50%;" />
+  <img src="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=MrchTChH48kQ7kNvwF5DlHq&_nc_oc=AdlWfp_Aw71W5vGlJhH_18fPMnNm8zixtTo4SnO-1LQLD5mGdaMKz6dtNTrZ4vc4zhE&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=IpLe6ONCkMZnV_afMmkTZg&oh=00_AfY2vAljqn-ljp_zM660U6ja5eivQGOYGXsZkHeMCx27Rg&oe=68E1A6E3"
+       alt="Unreal Studio Logo"
+       width="220"
+       style="border-radius:50%; box-shadow:0 0 15px #9370DB;" />
 </p>
 
-
-<p align="center"><b>Unreal Studio</b></p>
-
 <p align="center">
-  Unreal Studio is a software company. They focus on building their own projects—and now they’re
-  bringing that product-first mindset to the marketplace to help people create their dream software
-  and <em>scale</em> those dreams into reality.
+  <b>Unreal Studio</b> — Building futuristic software and empowering creators worldwide.
 </p>
 
 <blockquote align="center">
   “Connect Your Visual Reality”  
-  <br>— CEO, Unreal Studio
+  <br>— <b>CEO, Unreal Studio</b>
 </blockquote>
+
+💡 *Providing consulting, creative design, and tech workshops for global developers.*  
+📩 **ceo.at.unrealstudio@gmail.com**
 
 ---
 
-💡 *Unreal Studio also provides consulting, creative design, and tech workshops to inspire developers worldwide.*  
-📩 Contact: **ceo.at.unrealstudio@gmail.com**
-```
+## ✨ Quote of the Day
+> *"Code is like humor. When you have to explain it, it’s bad."*
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:9370DB&height=120&section=footer"/>
+</p>
