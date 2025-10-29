@@ -61,12 +61,12 @@
 ## 🎨 Partner Spotlight: Unreal Studio  
 
 <p align="center">
-  <img src="https://images.weserv.nl/?url=scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFURjbLLp2Fhd1QnucxkHTE9T6J2HG9ipv1PonYcb2Km-NpI-znc3vJVdM72zsSUpd7ylaKFZz5J-aLWManXubD&_nc_ohc=41uZ3lUIDXcQ7kNvwGpi85h&_nc_oc=AdmEOB5RZwn0JGo7pn25-Mz4tR919cymxez9rGAwk2l3rEV3Ftj7alLNjmhKoIbVdm4&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=rSH0Bh7QNTS1bxyZ3ErpXA&oh=00_Afc2brcfWqX6rJDTI1kEzzhtSQBMBDrBd0RsnLjV-rYGfA&oe=69081AA3&h=200&w=200&fit=cover&mask=circle"
+  <img src="https://raw.githubusercontent.com/ceo-uploads/ceo-uploads/main/Unreal_Studio.jpg" 
        alt="Unreal Studio Logo"
        width="200"
-       height="200"/>
+       height="200"
+       style="border-radius:50%; object-fit:cover; box-shadow:0 0 20px #9370DB;" />
 </p>
-
 <p align="center">
   <b>Unreal Studio</b> — Building futuristic software and empowering creators worldwide.
 </p>
