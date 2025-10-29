@@ -17,7 +17,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
   <a href="https://twitter.com/the_rayhan" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/md-rayhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://fb.com/rayhan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -51,7 +51,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceo-uploads&theme=tokyonight&no-frame=true&row=1&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ceo-uploads&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -61,8 +61,8 @@
 <p align="center">
   <img src="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFURjbLLp2Fhd1QnucxkHTE9T6J2HG9ipv1PonYcb2Km-NpI-znc3vJVdM72zsSUpd7ylaKFZz5J-aLWManXubD&_nc_ohc=41uZ3lUIDXcQ7kNvwGpi85h&_nc_oc=AdmEOB5RZwn0JGo7pn25-Mz4tR919cymxez9rGAwk2l3rEV3Ftj7alLNjmhKoIbVdm4&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=rSH0Bh7QNTS1bxyZ3ErpXA&oh=00_Afc2brcfWqX6rJDTI1kEzzhtSQBMBDrBd0RsnLjV-rYGfA&oe=69081AA3"
        alt="Unreal Studio Logo"
-       width="220"
-       style="border-radius:50%; box-shadow:0 0 15px #9370DB;" />
+       width="200"
+       style="border-radius:50%; box-shadow:0 0 20px #9370DB; object-fit:cover;" />
 </p>
 
 <p align="center">
