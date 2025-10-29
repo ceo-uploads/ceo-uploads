@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Rayhan!;CEO+of+Unreal+Studio;Software+Engineer+%26+Tech+Enthusiast;Building+Dreams+into+Reality+💻&gradient=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Rayhan!;CEO+of+Unreal+Studio;Currently+Studying+%26+Tech+Enthusiast;Building+Dreams+into+Reality+💻&gradient=true" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🎓 B.Sc in CSE | Department of Computer Science</h3>
@@ -68,7 +68,7 @@
        style="border-radius:50%; object-fit:cover; box-shadow:0 0 20px #9370DB;" />
 </p>
 <p align="center">
-  <b>Unreal Studio</b> — Building futuristic software and empowering creators worldwide.
+  <b>Unreal Studio</b> — Working on innovation, waiting to serve nations worldwide.
 </p>
 
 <blockquote align="center">
@@ -76,7 +76,7 @@
   <br>— <b>CEO, Unreal Studio</b>
 </blockquote>
 
-💡 *Providing consulting, creative design, and tech workshops for global developers.*  
+💡 *Creative, Passionate, working on projects and researches*  
 📩 **ceo.at.unrealstudio@gmail.com**
 
 ---
