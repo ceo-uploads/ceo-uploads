@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ceo-uploads&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Innovaion%20&%20Development-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CEO-Unreal%20Studio-blue?style=for-the-badge"/>
 </p>
 
