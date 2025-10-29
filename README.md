@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Rayhan!;CEO+of+Unreal+Studio;Software+Engineer+%26+Tech+Enthusiast;Building+Dreams+into+Reality+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Rayhan!;CEO+of+Unreal+Studio;Software+Engineer+%26+Tech+Enthusiast;Building+Dreams+into+Reality+💻" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🎓 B.Sc in CSE | Department of Computer Science</h3>
@@ -19,7 +19,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="center" style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+<p align="center">
   <a href="https://twitter.com/the_rayhan" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/md-rayhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://fb.com/rayhan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -61,10 +61,14 @@
 ## 🎨 Partner Spotlight: Unreal Studio  
 
 <p align="center">
-  <img src="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFURjbLLp2Fhd1QnucxkHTE9T6J2HG9ipv1PonYcb2Km-NpI-znc3vJVdM72zsSUpd7ylaKFZz5J-aLWManXubD&_nc_ohc=41uZ3lUIDXcQ7kNvwGpi85h&_nc_oc=AdmEOB5RZwn0JGo7pn25-Mz4tR919cymxez9rGAwk2l3rEV3Ftj7alLNjmhKoIbVdm4&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=rSH0Bh7QNTS1bxyZ3ErpXA&oh=00_Afc2brcfWqX6rJDTI1kEzzhtSQBMBDrBd0RsnLjV-rYGfA&oe=69081AA3"
-       alt="Unreal Studio Logo"
-       width="200"
-       style="border-radius:50%;clip-path:circle(50% at 50% 50%);box-shadow:0 0 20px #9370DB;object-fit:cover;"/>
+  <picture>
+    <source srcset="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFURjbLLp2Fhd1QnucxkHTE9T6J2HG9ipv1PonYcb2Km-NpI-znc3vJVdM72zsSUpd7ylaKFZz5J-aLWManXubD&_nc_ohc=41uZ3lUIDXcQ7kNvwGpi85h&_nc_oc=AdmEOB5RZwn0JGo7pn25-Mz4tR919cymxez9rGAwk2l3rEV3Ftj7alLNjmhKoIbVdm4&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=rSH0Bh7QNTS1bxyZ3ErpXA&oh=00_Afc2brcfWqX6rJDTI1kEzzhtSQBMBDrBd0RsnLjV-rYGfA&oe=69081AA3" type="image/jpeg">
+    <img src="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFURjbLLp2Fhd1QnucxkHTE9T6J2HG9ipv1PonYcb2Km-NpI-znc3vJVdM72zsSUpd7ylaKFZz5J-aLWManXubD&_nc_ohc=41uZ3lUIDXcQ7kNvwGpi85h&_nc_oc=AdmEOB5RZwn0JGo7pn25-Mz4tR919cymxez9rGAwk2l3rEV3Ftj7alLNjmhKoIbVdm4&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=rSH0Bh7QNTS1bxyZ3ErpXA&oh=00_Afc2brcfWqX6rJDTI1kEzzhtSQBMBDrBd0RsnLjV-rYGfA&oe=69081AA3"
+         alt="Unreal Studio Logo"
+         width="200"
+         height="200"
+         style="mask-image:url('https://upload.wikimedia.org/wikipedia/commons/e/e0/Circle_-_black_simple.svg');mask-size:cover;object-fit:cover;"/>
+  </picture>
 </p>
 
 <p align="center">
