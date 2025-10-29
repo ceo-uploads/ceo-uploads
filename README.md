@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Rayhan!;CEO+of+Unreal+Studio;Software+Engineer+%26+Tech+Enthusiast;Building+Dreams+into+Reality+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Rayhan!;CEO+of+Unreal+Studio;Software+Engineer+%26+Tech+Enthusiast;Building+Dreams+into+Reality+💻&gradient=true" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🎓 B.Sc in CSE | Department of Computer Science</h3>
@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ceo-uploads&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ceo-uploads&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Software%20Development-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CEO-Unreal%20Studio-blue?style=for-the-badge"/>
 </p>
@@ -61,14 +61,10 @@
 ## 🎨 Partner Spotlight: Unreal Studio  
 
 <p align="center">
-  <picture>
-    <source srcset="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFURjbLLp2Fhd1QnucxkHTE9T6J2HG9ipv1PonYcb2Km-NpI-znc3vJVdM72zsSUpd7ylaKFZz5J-aLWManXubD&_nc_ohc=41uZ3lUIDXcQ7kNvwGpi85h&_nc_oc=AdmEOB5RZwn0JGo7pn25-Mz4tR919cymxez9rGAwk2l3rEV3Ftj7alLNjmhKoIbVdm4&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=rSH0Bh7QNTS1bxyZ3ErpXA&oh=00_Afc2brcfWqX6rJDTI1kEzzhtSQBMBDrBd0RsnLjV-rYGfA&oe=69081AA3" type="image/jpeg">
-    <img src="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFURjbLLp2Fhd1QnucxkHTE9T6J2HG9ipv1PonYcb2Km-NpI-znc3vJVdM72zsSUpd7ylaKFZz5J-aLWManXubD&_nc_ohc=41uZ3lUIDXcQ7kNvwGpi85h&_nc_oc=AdmEOB5RZwn0JGo7pn25-Mz4tR919cymxez9rGAwk2l3rEV3Ftj7alLNjmhKoIbVdm4&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=rSH0Bh7QNTS1bxyZ3ErpXA&oh=00_Afc2brcfWqX6rJDTI1kEzzhtSQBMBDrBd0RsnLjV-rYGfA&oe=69081AA3"
-         alt="Unreal Studio Logo"
-         width="200"
-         height="200"
-         style="mask-image:url('https://upload.wikimedia.org/wikipedia/commons/e/e0/Circle_-_black_simple.svg');mask-size:cover;object-fit:cover;"/>
-  </picture>
+  <img src="https://images.weserv.nl/?url=scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFURjbLLp2Fhd1QnucxkHTE9T6J2HG9ipv1PonYcb2Km-NpI-znc3vJVdM72zsSUpd7ylaKFZz5J-aLWManXubD&_nc_ohc=41uZ3lUIDXcQ7kNvwGpi85h&_nc_oc=AdmEOB5RZwn0JGo7pn25-Mz4tR919cymxez9rGAwk2l3rEV3Ftj7alLNjmhKoIbVdm4&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=rSH0Bh7QNTS1bxyZ3ErpXA&oh=00_Afc2brcfWqX6rJDTI1kEzzhtSQBMBDrBd0RsnLjV-rYGfA&oe=69081AA3&h=200&w=200&fit=cover&mask=circle"
+       alt="Unreal Studio Logo"
+       width="200"
+       height="200"/>
 </p>
 
 <p align="center">
