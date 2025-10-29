@@ -1,6 +1,8 @@
 <!-- Header Section -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Rayhan</span></h1>
-<h2 align="center">💼 CEO, <span style="color:#9370DB;">Unreal Studio</span></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Rayhan!;CEO+of+Unreal+Studio;Software+Engineer+%26+Tech+Enthusiast;Building+Dreams+into+Reality+💻" alt="Typing SVG" />
+</p>
+
 <h3 align="center">🎓 B.Sc in CSE | Department of Computer Science</h3>
 <h3 align="center">🏫 FENI UNIVERSITY</h3>
 <h3 align="center">🚀 Passionate Programmer from 🇧🇩 Bangladesh</h3>
@@ -62,7 +64,7 @@
   <img src="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFURjbLLp2Fhd1QnucxkHTE9T6J2HG9ipv1PonYcb2Km-NpI-znc3vJVdM72zsSUpd7ylaKFZz5J-aLWManXubD&_nc_ohc=41uZ3lUIDXcQ7kNvwGpi85h&_nc_oc=AdmEOB5RZwn0JGo7pn25-Mz4tR919cymxez9rGAwk2l3rEV3Ftj7alLNjmhKoIbVdm4&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=rSH0Bh7QNTS1bxyZ3ErpXA&oh=00_Afc2brcfWqX6rJDTI1kEzzhtSQBMBDrBd0RsnLjV-rYGfA&oe=69081AA3"
        alt="Unreal Studio Logo"
        width="200"
-       style="border-radius:50%; box-shadow:0 0 20px #9370DB; object-fit:cover;" />
+       style="border-radius:50%;clip-path:circle(50% at 50% 50%);box-shadow:0 0 20px #9370DB;object-fit:cover;"/>
 </p>
 
 <p align="center">
