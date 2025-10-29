@@ -43,19 +43,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceo-uploads&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceo-uploads&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
 
-## 🧠 Fun Zone
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceo-uploads&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ceo-uploads&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ceo-uploads&theme=tokyonight&no-frame=true&row=1&margin-w=10"/>
 </p>
 
 ---
@@ -63,7 +59,7 @@
 ## 🎨 Partner Spotlight: Unreal Studio  
 
 <p align="center">
-  <img src="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=MrchTChH48kQ7kNvwF5DlHq&_nc_oc=AdlWfp_Aw71W5vGlJhH_18fPMnNm8zixtTo4SnO-1LQLD5mGdaMKz6dtNTrZ4vc4zhE&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=IpLe6ONCkMZnV_afMmkTZg&oh=00_AfY2vAljqn-ljp_zM660U6ja5eivQGOYGXsZkHeMCx27Rg&oe=68E1A6E3"
+  <img src="https://scontent.fcgp36-1.fna.fbcdn.net/v/t39.30808-6/480208066_122118974096701690_5572951173120999992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFURjbLLp2Fhd1QnucxkHTE9T6J2HG9ipv1PonYcb2Km-NpI-znc3vJVdM72zsSUpd7ylaKFZz5J-aLWManXubD&_nc_ohc=41uZ3lUIDXcQ7kNvwGpi85h&_nc_oc=AdmEOB5RZwn0JGo7pn25-Mz4tR919cymxez9rGAwk2l3rEV3Ftj7alLNjmhKoIbVdm4&_nc_zt=23&_nc_ht=scontent.fcgp36-1.fna&_nc_gid=rSH0Bh7QNTS1bxyZ3ErpXA&oh=00_Afc2brcfWqX6rJDTI1kEzzhtSQBMBDrBd0RsnLjV-rYGfA&oe=69081AA3"
        alt="Unreal Studio Logo"
        width="220"
        style="border-radius:50%; box-shadow:0 0 15px #9370DB;" />
