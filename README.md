@@ -5,7 +5,7 @@
 
 <h3 align="center">🎓 B.Sc in CSE | Department of Computer Science</h3>
 <h3 align="center">🏫 FENI UNIVERSITY</h3>
-<h3 align="center">🚀 Passionate Programmer from 🇧🇩 Bangladesh</h3>
+<h3 align="center">🚀 Passionate Programmer from 🇧🇩</h3>
 
 <br>
 
